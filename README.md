@@ -12,6 +12,8 @@
 
 4)Открытие карты путем перемещения юнита.
 
+https://disk.yandex.ru/d/gzewyF8StKbQjA
+
 ![stratego](https://github.com/user-attachments/assets/69340426-ffe3-4791-ad4a-581ae4ae03d3)
 <p>
 
@@ -28,6 +30,8 @@
 
 4)Управление как под пк так и под андройд.
 
+https://disk.yandex.ru/d/jUlAnDcddATiKA
+
 ![shut](https://github.com/user-attachments/assets/e7625bb1-a594-47cb-ba46-d874c2ac7815)
 <p>
 
@@ -41,6 +45,8 @@
 2)Перемещение по карте.
 
 3)Открытие тумана войны и его обновление.
+
+https://disk.yandex.ru/d/bfuISVXkU4TZow
 
 ![map45](https://github.com/user-attachments/assets/1c3f5471-b482-4302-86ff-f3794fd355e7)
 
